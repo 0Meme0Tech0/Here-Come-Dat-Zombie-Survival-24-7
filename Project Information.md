@@ -21,7 +21,7 @@ The Following Server listed above does not exist yet, as to the expenses and the
 
 # Logistical Information
 
-Mappers for said project will be admitted as long as they can prove they are familiar with Steam cmd and are capable of porting GMod into the Hammer. However here is not the proper repository for said maps, this repository is only for the original set of maps given by Jet's Repository. If you are interested in creating a map, contact me through Steam. You will need send me the map files via Third Party File Services, as i will directly be adding them to the Server Tower when given the chance via USB. I am familiar with the Hammer so i will be assisting anyone who is interested in this endevour by making some of my own.
+Mappers for said project will be admitted as long as they can prove they are familiar with Steam cmd and are capable of porting GMod into the Hammer. However here is not the proper repository for said maps, this repository is only for the original set of maps given by Jet's Repository and even then, its just the text file references for zombie spawns not the actual maps themselves. If you are interested in creating a map, contact me through Steam. You will need send me the map files via Third Party File Services, as i will directly be adding them to the Server Tower when given the chance via USB. I am familiar with the Hammer so i will be assisting anyone who is interested in this endevour by making some of my own.
 
 Lua Coders, If you are going to collaborate i will need to know who specifically, and the merits of your education, though it may not dissuade from an addition to the project, it helps to know ones capabilities in a group enviornment.
 
