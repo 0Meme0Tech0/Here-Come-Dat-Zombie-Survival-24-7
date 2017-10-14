@@ -2,6 +2,7 @@ The following repository is the current build for the following server hash
 
 # Here Come Dat Zombie Survival 24/7 125 Slots
 
+# Project Repository Guidelines
 None of this is to be monetized and or sold in any shape or form without explicit permission from JetBoom himself, with any other derivitive work based from and not including to Valve Software Corp and any other original author from any models and or work found within this repository. None of what will be added with be sold in any shape or form to gain any sort of visible and or measurable advantage over other players in a competitive enviornment I.E any (P2W) function or feature.
 
 This build is purposed for the gradual modification and production of a "Better than it currently is" project, as the project will be refrenced in the project tab above, go there for updates on collab work pertaining to specific features.
